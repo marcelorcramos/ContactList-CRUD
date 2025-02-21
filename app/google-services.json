@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3039160713",
+    "project_id": "dataviwersignin",
+    "storage_bucket": "dataviwersignin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3039160713:android:fedb3e37a865d97f375958",
+        "android_client_info": {
+          "package_name": "com.example.dataviwerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4hwsF62kLh3cwZWX__WnZdxkKj0s8Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
