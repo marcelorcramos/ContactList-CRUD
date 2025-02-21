@@ -1,4 +1,4 @@
-ContactList 
+ContactList-CRUD 📱
 
 Bem-vindo a ContactList, um aplicativo de Lista de Contactos construido em JAVA. 
 
