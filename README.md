@@ -18,3 +18,6 @@ Java: Linguagem principal para o desenvolvimento.
 RecyclerView: Criação de interfaces de usuário.
 SQLITE: Para criar e salvar tabelas (Nome, Número de Telefone, Email, Data de Nascimento e Biografia)
 Firebase Auth: Para a criação de contas com Email (Login, Cadastro)
+
+
+
